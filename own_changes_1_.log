@@ -1,0 +1,6 @@
+azureml-examples/sdk/python/using-mlflow/deploy/mlflow_sdk_web_service.ipynb	https://github.com/Azure/azureml-examples/blob/main/sdk/python/using-mlflow/deploy/mlflow_sdk_web_service.ipynb					5-Mar	
+AZURE ML -- C# .NET Code examples --- 	https://github.com/Azure/azureml-examples/tree/main/sdk/dotnet/AzureML-Samples-Csharp					5-Mar	"Console.WriteLine($""Subscription: {id.SubscriptionId}"");
+Console.WriteLine($""ResourceGroupResource: {id.ResourceGroupName}"");
+Console.WriteLine($""Vnet: {id.Parent.Name}"");
+Console.WriteLine($""Subnet: {id.Name}"");"
+AZURE ML -- MAIN PYTHON TUTE -- Code examples --- 	https://github.com/Azure/azureml-examples/blob/main/tutorials/azureml-in-a-day/azureml-in-a-day.ipynb					5-Mar	
